@@ -1,0 +1,14 @@
+.profile_ditails {
+  width: 85%;
+  margin-left: 100px;
+  margin-top: 70px;
+  background-color: rgb(132, 132, 253);
+  padding: 30px;
+  color: white;
+}
+.btn {
+  width: 150px;
+  height: 30px;
+  border-radius: 50px;
+  cursor: pointer;
+}

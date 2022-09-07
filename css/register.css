@@ -1,0 +1,75 @@
+body {
+  background-image: url("../image/register.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.register-form {
+  color: rgb(255, 255, 255);
+}
+
+.form-content {
+  text-align: center;
+  padding: 40px;
+  padding-right: 50px;
+  background-color: rgb(0, 0, 0);
+
+  margin: 100px 200px 200px 200px;
+  border-radius: 50px;
+  opacity: 90%;
+}
+.form-content label {
+  font-size: 20px;
+}
+
+.confirm {
+  width: 450px;
+  height: 30px;
+  outline: none;
+  margin-left: 20px;
+  border-radius: 50px;
+}
+.password {
+  width: 450px;
+  height: 30px;
+  outline: none;
+  margin-left: 93px;
+  border-radius: 50px;
+}
+.mobile {
+  width: 450px;
+  height: 30px;
+  outline: none;
+  margin-left: 122px;
+  border-radius: 50px;
+}
+.email {
+  width: 450px;
+  height: 30px;
+  outline: none;
+  margin-left: 123px;
+  border-radius: 50px;
+}
+.lName {
+  width: 450px;
+  height: 30px;
+  outline: none;
+  margin-left: 83px;
+  border-radius: 50px;
+}
+.fName {
+  width: 450px;
+  height: 30px;
+  outline: none;
+  margin-left: 83px;
+  border-radius: 50px;
+}
+.btn {
+  width: 450px;
+  height: 30px;
+  outline: none;
+  margin-left: 200px;
+  outline: none;
+  border-radius: 50px;
+  cursor: pointer;
+}

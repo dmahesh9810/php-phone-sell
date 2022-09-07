@@ -1,0 +1,38 @@
+.s-img {
+  width: 600px;
+  height: 600px;
+  position: absolute;
+}
+
+.s-img img {
+  width: 100%;
+  height: 50px;
+}
+.image-section {
+  margin-top: 150px;
+  margin-left: 100px;
+}
+.next {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background-color: rgb(189, 189, 246);
+  position: absolute;
+  margin-left: 670px;
+  margin-top: 200px;
+  cursor: pointer;
+}
+.prev {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background-color: rgb(189, 189, 246);
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 200px;
+  cursor: pointer;
+}
+
+.product-ditails {
+  margin-left: 600px;
+}
